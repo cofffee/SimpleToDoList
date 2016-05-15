@@ -20,7 +20,7 @@
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="IJC-Kr-acl">
                                 <rect key="frame" x="16" y="66" width="288" height="30"/>
-                                <state key="normal" title="Add Info "/>
+                                <state key="normal" title="Add Note"/>
                                 <connections>
                                     <action selector="addItem:" destination="BYZ-38-t0r" eventType="touchUpInside" id="SOj-1f-m5v"/>
                                 </connections>
